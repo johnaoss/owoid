@@ -1,6 +1,6 @@
 # owoid
 
-A zig port of @bs2kbs2k's [uwuid](https://github.com/bs2kbs2k/uwuid)\
+A zig port of @bs2kbs2k's [uwuid](https://github.com/bs2kbs2k/uwuid)
 
 ## Installation
 
